@@ -13,7 +13,7 @@ class MainApp extends StatelessWidget {
       home: Scaffold(
       appBar: AppBar(
         title: Text("YoShi"),
-        backgroundColor: Color.fromARGB(224, 48, 244, 90),
+        backgroundColor: Color.fromARGB(223, 94, 48, 244),
         
       ),
       body: const Center(
